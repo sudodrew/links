@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="Local",CBS2 Los Angeles (KCBS)
 https://api.locastnet.org/api/watch/stream/1075/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbmRyZXdxbGVAZ21haWwuY29tIiwicm9sZSI6MSwiZXhwIjoxNjAwNDUzMzgzfQ.J5ozsTgSPk5uAjjJk7vdKaPy4PDprVdtmWw9RMNSC_I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT.png" group-title="Local",NBC4 Los Angeles (KNBC)
