@@ -74,37 +74,37 @@ https://api.locastnet.org/api/watch/stream/1309/37.81/-122.24/?token=eyJhbGciOiJ
 https://api.locastnet.org/api/watch/stream/1434/37.81/-122.24/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbmRyZXdxbGVAZ21haWwuY29tIiwicm9sZSI6MSwiZXhwIjoxNjAwNDUzMzgzfQ.J5ozsTgSPk5uAjjJk7vdKaPy4PDprVdtmWw9RMNSC_I
 #EXTINF:-1 tvg-id="115" tvg-name="" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/SFO/KTLNDT2.png" group-title="Local",MeTV (KBCW 44.3 SD)
 https://api.locastnet.org/api/watch/stream/1435/37.81/-122.24/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbmRyZXdxbGVAZ21haWwuY29tIiwicm9sZSI6MSwiZXhwIjoxNjAwNDUzMzgzfQ.J5ozsTgSPk5uAjjJk7vdKaPy4PDprVdtmWw9RMNSC_I
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://www.satlogo.com/hires/bb/bt_sport_uk_2.png" group-title="UK Sport",BT Sport 2 UK
+#EXTINF:-1 tvg-id="78" tvg-name="BT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="UK Sport",BT Sport 2 UK
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN" tvg-logo="https://www.satlogo.com/hires/bb/bt_sport_uk_espn.png" group-title="UK Sport",BT Sport ESPN UK
+#EXTINF:-1 tvg-id="79" tvg-name="BT Sport ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTSPORT_ESPN_BLACK_RED.png/256px-BTSPORT_ESPN_BLACK_RED.png" group-title="UK Sport",BT Sport ESPN UK
 https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Radio" tvg-logo="https://cdn-profiles.tunein.com/s25876/images/logoq.jpg" group-title="US Radio",ESPN Radio
+#EXTINF:-1 tvg-id="201" tvg-name="ESPN Radio" tvg-logo="https://cdn-profiles.tunein.com/s25876/images/logoq.jpg" group-title="US Radio",ESPN Radio
 http://us-east.edge-1.cis.abacast.net/direct/espn-networkmp3-48
-#EXTINF:-1 tvg-id="" tvg-name="KSPN 710 Los Angeles" tvg-logo="https://cdn-profiles.tunein.com/s32301/images/logoq.jpg" group-title="US Radio",ESPN Radio Los Angeles (KSPN 710)
+#EXTINF:-1 tvg-id="202" tvg-name="KSPN 710 Los Angeles" tvg-logo="https://cdn-profiles.tunein.com/s32301/images/logoq.jpg" group-title="US Radio",ESPN Radio Los Angeles (KSPN 710)
 http://edge.espn.cdn.abacast.net/espn-kspnmp3-48
-#EXTINF:-1 tvg-id="" tvg-name="CNN Radio" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logoq.png" group-title="US Radio",CNN Radio
+#EXTINF:-1 tvg-id="203" tvg-name="CNN Radio" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logoq.png" group-title="US Radio",CNN Radio
 http://tunein.streamguys1.com/cnn
-#EXTINF:-1 tvg-id="" tvg-name="KQED-FM (NPR)" tvg-logo="https://cdn-profiles.tunein.com/s34804/images/logoq.png" group-title="US Radio",KQED-FM (NPR San Francisco 88.5)
+#EXTINF:-1 tvg-id="204" tvg-name="KQED-FM (NPR)" tvg-logo="https://cdn-profiles.tunein.com/s34804/images/logoq.png" group-title="US Radio",KQED-FM (NPR San Francisco 88.5)
 http://50.31.186.115/kqedradio.mp3
-#EXTINF:-1 tvg-id="" tvg-name="CBC Music (Pacific)" tvg-logo="https://cdn-profiles.tunein.com/s66855/images/logoq.png" group-title="Canada Radio",CBC Music Vancouver (CBU-FM)
+#EXTINF:-1 tvg-id="205" tvg-name="CBC Music (Pacific)" tvg-logo="https://cdn-profiles.tunein.com/s66855/images/logoq.png" group-title="Canada Radio",CBC Music Vancouver (CBU-FM)
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="UK Radio",BBC Radio 1
+#EXTINF:-1 tvg-id="206" tvg-name="BBC Radio 1" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="UK Radio",BBC Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 2" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="UK Radio",BBC Radio 2
+#EXTINF:-1 tvg-id="207" tvg-name="BBC Radio 2" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="UK Radio",BBC Radio 2
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 3" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="UK Radio",BBC Radio 3
+#EXTINF:-1 tvg-id="208" tvg-name="BBC Radio 3" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="UK Radio",BBC Radio 3
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 4" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="UK Radio",BBC Radio 4 FM
+#EXTINF:-1 tvg-id="209" tvg-name="BBC Radio 4" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="UK Radio",BBC Radio 4 FM
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 5 live" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="UK Radio",BBC Radio 5 live
+#EXTINF:-1 tvg-id="210" tvg-name="BBC Radio 5 live" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="UK Radio",BBC Radio 5 live
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 6 Music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="UK Radio",BBC Radio 6 Music
+#EXTINF:-1 tvg-id="211" tvg-name="BBC Radio 6 Music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="UK Radio",BBC Radio 6 Music
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 1 Xtra
+#EXTINF:-1 tvg-id="212" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 1 Xtra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 4 Extra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 4 Extra
+#EXTINF:-1 tvg-id="213" tvg-name="BBC Radio 4 Extra" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="UK Radio",BBC Radio 4 Extra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_q
-#EXTINF:-1 tvg-id="" tvg-name="BBC World Service" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24948q.png" group-title="UK Radio",BBC World Service News
+#EXTINF:-1 tvg-id="214" tvg-name="BBC World Service" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24948q.png" group-title="UK Radio",BBC World Service News
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
-#EXTINF:-1 tvg-id="" tvg-name="Radio National (Australia)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="AU Radio",ABC Radio National
+#EXTINF:-1 tvg-id="215" tvg-name="Radio National (Australia)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20269q.png" group-title="AU Radio",ABC Radio National
 http://live-radio02.mediahubaustralia.com/2RNW/mp3/
