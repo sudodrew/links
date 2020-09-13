@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.takeup.space/9i6fz0.jpg" group-title="",DNET.tv-01
-rtmp://connect.dnet.network:1935/live/ea8c3de1-0fc5-480d-93d5-4bb5e182f8ca
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.takeup.space/tadvro.png" group-title="",DNET.tv-02
-rtmp://connect.dnet.network:1935/live/ec93d510-d290-47bb-8cc2-3f05cb7f25b2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/s3-cdn.uploadvr.com/wp-content/uploads/2019/06/OculusQuest-BeatSaber.png" group-title="",Tortured by Beat Saber
-rtmp://51.79.20.12:1935/live/b9fb8153-d3fc-49ab-ad8c-6fd97f6201e8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vhv.rs/dpng/d/594-5941701_logo-tv-icon-png-transparent-png.png" group-title="",DNET.tv-01
+rtmp://stream.dnet.network:1935/live/25091733-1b99-4484-9e96-4c1421d8aae0
