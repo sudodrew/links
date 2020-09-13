@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vhv.rs/dpng/d/594-5941701_logo-tv-icon-png-transparent-png.png" group-title="",DNET.tv-01
-rtmp://stream.dnet.network:1935/live/25091733-1b99-4484-9e96-4c1421d8aae0
+rtmp://connect.dnet.network:1935/live/25091733-1b99-4484-9e96-4c1421d8aae0
